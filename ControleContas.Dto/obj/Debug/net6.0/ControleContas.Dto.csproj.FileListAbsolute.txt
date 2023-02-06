@@ -1,0 +1,17 @@
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\bin\Debug\net6.0\ControleContas.Dto.deps.json
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\bin\Debug\net6.0\ControleContas.Dto.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\bin\Debug\net6.0\ControleContas.Dto.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\bin\Debug\net6.0\ControleContas.Entity.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\bin\Debug\net6.0\ControleContas.Entity.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.csproj.AssemblyReference.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.AssemblyInfoInputs.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.AssemblyInfo.cs
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.csproj.CoreCompileInputs.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.csproj.CopyComplete
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\refint\ControleContas.Dto.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ControleContas.Dto.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\obj\Debug\net6.0\ref\ControleContas.Dto.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\bin\Debug\net6.0\ControleContas.CrossCutting.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Dto\bin\Debug\net6.0\ControleContas.CrossCutting.pdb

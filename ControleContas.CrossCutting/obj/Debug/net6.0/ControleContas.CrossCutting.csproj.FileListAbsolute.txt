@@ -1,0 +1,12 @@
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\bin\Debug\net6.0\ControleContas.CrossCutting.deps.json
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\bin\Debug\net6.0\ControleContas.CrossCutting.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\bin\Debug\net6.0\ControleContas.CrossCutting.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ControleContas.CrossCutting.csproj.AssemblyReference.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ControleContas.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ControleContas.CrossCutting.AssemblyInfoInputs.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ControleContas.CrossCutting.AssemblyInfo.cs
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ControleContas.CrossCutting.csproj.CoreCompileInputs.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ControleContas.CrossCutting.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\refint\ControleContas.CrossCutting.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ControleContas.CrossCutting.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.CrossCutting\obj\Debug\net6.0\ref\ControleContas.CrossCutting.dll

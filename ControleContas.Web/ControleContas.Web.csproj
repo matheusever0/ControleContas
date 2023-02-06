@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControleContas.CrossCutting\ControleContas.CrossCutting.csproj" />
+    <ProjectReference Include="..\ControleContas.Dto\ControleContas.Dto.csproj" />
+    <ProjectReference Include="..\ControleContas.IoC\ControleContas.IoC.csproj" />
+    <ProjectReference Include="..\ControleContas.Service\ControleContas.Service.csproj" />
+  </ItemGroup>
+
+</Project>

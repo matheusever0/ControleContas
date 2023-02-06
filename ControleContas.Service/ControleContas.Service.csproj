@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DomainServices\" />
+    <Folder Include="Interfaces\Application\" />
+    <Folder Include="Services\Application\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControleContas.CrossCutting\ControleContas.CrossCutting.csproj" />
+    <ProjectReference Include="..\ControleContas.Dto\ControleContas.Dto.csproj" />
+    <ProjectReference Include="..\ControleContas.Entity\ControleContas.Entity.csproj" />
+    <ProjectReference Include="..\ControleContas.Repository\ControleContas.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

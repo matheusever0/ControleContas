@@ -1,0 +1,15 @@
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\bin\Debug\net6.0\ControleContas.Entity.deps.json
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\bin\Debug\net6.0\ControleContas.Entity.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\bin\Debug\net6.0\ControleContas.Entity.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.csproj.AssemblyReference.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.AssemblyInfoInputs.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.AssemblyInfo.cs
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.csproj.CoreCompileInputs.cache
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\refint\ControleContas.Entity.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ref\ControleContas.Entity.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\bin\Debug\net6.0\ControleContas.CrossCutting.dll
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\bin\Debug\net6.0\ControleContas.CrossCutting.pdb
+F:\Matheus\PROJETOS\ControleContas\ControleContas.Entity\obj\Debug\net6.0\ControleContas.Entity.csproj.CopyComplete
